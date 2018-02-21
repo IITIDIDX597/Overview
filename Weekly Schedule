@@ -1,0 +1,284 @@
+Special Topics: Agile Culture – 27518 – IDX 597
+Downtown Campus : Room 482
+0600-0900pm
+Levels: Graduate Business, Graduate 
+Status: Active
+27518 CRN 
+Studio Schedule Type 
+Traditional Instructional Method
+
+Mar 19 B session begins
+19-MAR-18 28-APR-18
+May 5 B session ends, Full term ends (no classes held beyond this date)
+May 9 Grades are due for all classes
+
+Typical Structure of Class:
+I am a firm believer that class time should be working time, so each three hour session will be a mixture of class discussion based on pre-class content that should be reviewed; spending individual time with each team to discuss key issues facing a team to meet the goal of the course and 30 minutes discussion for questions and answers by the whole class.
+
+- 30 minute discussion of pre class content
+- 15 minute individual team working sessions (8 teams) : 2 hours
+- 30 minutes Q&A time
+
+First class
+Please remember that your first class should explicitly cover the course objectives and your approach to grading. 90% of student/faculty frustrations come from misunderstood objectives and grading rubrics.
+
+- – - – - – - – - – - – - – - – - – - – - – - – - – - – - – - – - – - – - – -
+Week 1 – March 21
+Situational Awareness
+
+- – - – - – - – - – - – - – - – - – - 
+Pre Class Preparation
+
+Review Online Written Content
+• Review IBM Design Thinking Field Guide
+
+Review Mural Overview Videos
+https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1
+http://bit.ly/2D9q8UY
+https://labs.spotify.com/2014/09/20/spotify-engineering-culture-part-2
+http://bit.ly/2D5ojJb
+Mural Learning Overview
+https://www.youtube.com/watch?v=k5tpMyGumgQ
+http://bit.ly/2mnj2Sl
+Mural Basics
+https://www.youtube.com/watch?v=Qwtl-Zvgp5k
+http://bit.ly/2ED7wtr
+Mural How to : step by step
+https://www.youtube.com/watch?v=kKg7uqUBi3w
+http://bit.ly/2mp3Eot
+
+Review ZenHub Overview Videos
+https://www.youtube.com/watch?v=TRu7vKCg920
+http://bit.ly/2Fv1JHw
+
+Review Presentation = Why use Agile to deliver solutions?
+- The historical power of waterfall and why it does not work in 2017
+- Principles, Values, Culture/Behaviors, and Practices
+- Agile Manifesto, introduce key agile terminology
+- Patterns : Strategy, Program, Operations
+- Challenges to using agile practices
+
+To do in Mural
+• Fill out Hopes and Fears mural
+https://app.mural.ly/t/iitidagilecourseworkspace6801/m/iitidagilecourseworkspace6801/1515693697156/bdcff60b18bbaf051a3007781037d33ac79fb55c
+http://bit.ly/2mn64no
+• Complete class social contract on Mural
+https://app.mural.ly/t/iitidagilecourseworkspace6801/m/iitidagilecourseworkspace6801/1515695356224/83c8a40758d214a565319e2d7506ce538592b2ae
+http://bit.ly/2ml8zqm
+
+To do in ZenHub
+• create a Task Board in ZenHub 
+- not started
+- in progress
+- completed
+
+• Create a GitHub account
+Visit the main GitHub for the course at
+https://github.com/AdamKallish/IDAgileCourse
+http://bit.ly/2D4FGKe
+
+To do to create additional content
+• Generate specific questions about the content, and the class choose the top five questions to pose to Adam
+
+- – - – - – - – - – - – - – - – - – - 
+Class
+
+• Review Hopes and Fears Mural
+• Review class social contract on Mural and refine – 30 minutes
+• Review syllabus – on GutHub – 15 minutes
+https://github.com/AdamKallish/IDAgileCourse
+• Review main presentation (document) – 1 hour
+• Create teams of three or four people that work on one real project from one of the students (five teams)
+- the chosen project should be mature, well defined, and that student will become the product owner. The other students are collaborators to help break down the project over the seven weeks 
+• Questions and answer session – 30 minutes
+
+- – - – - – - – - – - – - – - – - – - – - – - – - – - – - – - – - – - – - – -
+Week 2 – March 28
+Define a project statement (goal), three hill statements (activities) and take one hill statement and break it down into term definitions and supporting sub-hills (supporting statements that are more granular)
+
+- – - – - – - – - – - – - – - – - – - 
+Pre Class Preparation
+
+Review Online Written Content
+https://www.ibm.com/cloud/garage/content/think/practice_hills/1_1
+http://ibm.co/2Eh7YRx
+https://developer.ibm.com/answers/questions/12840/how-do-i-represent-ibm-design-thinking-hills-and-scenarios-in-my-project-plannning.html?smartspace=ibm-design
+https://ibm.co/2GK4oh4
+
+Review Videos
+https://www.ibm.com/cloud/garage/content/think/practice_hills/
+https://ibm.co/2BWkJvy
+
+Review Presentation
+- will discuss the role of hills, their structure, and role of sub-hills
+
+In Mural
+• Define a project statement for one project in Mural
+• Define three hill statements to support the problem statement
+- break one hill statement into 
+- – definitions of each word or small prose
+- – create sub hill statement definitions
+https://app.mural.ly/t/iitidagilecourseworkspace6801/m/iitidagilecourseworkspace6801/1515699120063/5f2fbb62ea1f1500bf62b5e91c4f500ab79070b1
+http://bit.ly/2FLTXbN
+
+- – - – - – - – - – - – - – - – - – - 
+Class
+• Review the hill statements 
+- Review definitions of each word or small prose
+- Review sub hill statement definitions
+
+- – - – - – - – - – - – - – - – - – - – - – - – - – - – - – - – - – - – - – -
+Week 3 – April 4
+Creation of story statements to epics (body of work) for one hill
+
+- – - – - – - – - – - – - – - – - – - 
+Pre Class Preparation
+
+Review Online Written Content
+https://www.mountaingoatsoftware.com/agile/user-stories
+Good high level 
+https://www.romanpichler.com/blog/10-tips-writing-good-user-stories/
+- or – 
+https://techbeacon.com/agile-leaders-guide-writing-user-stories
+Good detail in relation to backlog
+http://www.agilemodeling.com/artifacts/userStory.htm
+
+Review Videos
+Good overview
+https://www.ca.com/us/collateral/videos/how-to-write-good-user-stories.html
+And it is in a Scottish accent!
+https://www.youtube.com/watch?v=LGeDZmrWwsw
+
+Review Presentation
+- will discuss the role of the structure of stories and acceptance criteria
+
+In GitHub
+- create individual stories and tag them by epic name
+https://www.ibm.com/cloud/garage/content/course/gm_advocate/6/
+
+To do before class:
+• Story statements to epics (body of work) for one hill
+- break down a hill into a series of stories
+- group stories into themes
+- themes into epics
+
+- – - – - – - – - – - – - – - – - – - 
+Class
+• Review story statements to epics (body of work) for one hill
+
+- – - – - – - – - – - – - – - – - – - – - – - – - – - – - – - – - – - – - – -
+Week 4 – April 11
+Group general backlog of stories, called “issues” in GitHub
+
+- – - – - – - – - – - – - – - – - – - 
+Pre Class Preparation
+
+Review Online Written Content
+Good Overview
+https://www.mountaingoatsoftware.com/agile/scrum/scrum-tools/product-backlog
+Example backlog
+https://www.mountaingoatsoftware.com/agile/scrum/scrum-tools/product-backlog/example
+http://www.projectslittlehelper.com/2012/02/28/being-agile/creating-a-product-backlog-story-mapping/
+https://medium.com/@ZenHub/mastering-your-product-backlog-9ab93935f76f
+
+Review PDF
+• Product Backlog Creation guidelines
+
+Review Videos
+https://www.youtube.com/watch?v=psLjEBUOnVs
+https://www.youtube.com/watch?v=DUYUIj1t10Q
+
+Review Presentation
+• Will discuss the role of GitHib and ZenHub for creating a backlog and managing the kanban
+
+Work in GitHub and ZenHub
+• Create general backlog of stories 
+• Take one group of stories in an epic and create acceptance criteria for each story
+• Divide stories into
+- – Icebox (unprioritized backlog)
+- – Cool List (low priority)
+- – Warm List (upcoming and higher priority)
+- – Hot List (do now)
+
+- – - – - – - – - – - – - – - – - – - 
+Class
+- review rough backlog and acceptance criteria
+- review prioritized backlog
+
+- – - – - – - – - – - – - – - – - – - – - – - – - – - – - – - – - – - – - – -
+Week 5 – April 18
+Agile for the real world : Visit DevMynd
+2035 W Wabansia Avenue
+Chicago, IL 60647
+
+- – - – - – - – - – - – - – - – - – - 
+Pre Class Preparation
+
+Pre Class Preparation:
+• Visit the DevMynd website
+
+To do before class
+• Class to generate five questions to ask
+• These five questions will be the starting point for more questions
+
+- – - – - – - – - – - – - – - – - – - 
+Class
+• Visit DevMynd integrating design thinking and practicing agile 
+• Engage with key questions
+
+- – - – - – - – - – - – - – - – - – - – - – - – - – - – - – - – - – - – - – -
+Week 6 – April 25
+Size each of the stories in the project backlog in terms of difficulty using relative estimation of complexity and effort
+
+- – - – - – - – - – - – - – - – - – - 
+Pre Class Preparation:
+
+Review Online Written Content
+https://www.mountaingoatsoftware.com/blog/how-can-we-get-the-best-estimates-of-story-size
+https://www.scrum.org/forum/scrum-forum/6774/how-decide-how-many-story-points-take-first-sprint
+https://confluence.atlassian.com/jirasoftwarecloud/configuring-estimation-and-tracking-764478030.html?_ga=2.206798165.739551344.1515612461-475809433.1438630092
+
+Review Videos
+Good general overview of relative estimating
+https://www.youtube.com/watch?v=XfZpkxhpUzQ
+Agile Estimating and Planning: Product Backlog Estimating Units
+https://www.youtube.com/watch?v=lpdzY6zP6RA&index=4&list=PLQC5drIXMW_BhjtkErW7fy3YzBrOeA846
+Agile Estimating and Planning: Planning Poker
+https://www.youtube.com/watch?v=gE7srp2BzoM&list=PLQC5drIXMW_BhjtkErW7fy3YzBrOeA846&index=5
+How To Do Agile Sizing and Estimating
+https://www.youtube.com/watch?v=gWhmGKvGrQo
+
+Review Presentation
+- will discuss the differences in estimating using planning poker vs. t-shirt sizing
+
+To do before class
+• define what each t-shirt size means to the team in terms of complexity and effort
+• make sure that each larger size is relatively estimated 
+• have the warm and hot list stories sized
+• Use https://www.planningpoker.com to help
+
+- – - – - – - – - – - – - – - – - – - 
+Class
+• Review team definitions of the meaning of each t-shirt size 
+• Review the warm and hot list stories sized
+
+- – - – - – - – - – - – - – - – - – - – - – - – - – - – - – - – - – - – - – -
+Week 7 – Finals Week – May 2
+
+- – - – - – - – - – - – - – - – - – - 
+Pre Class Preparation:
+• each team prepares a 15 minute playback with 5 minute Q&A
+- Review goal of project
+- Review hill statements
+- Review hill breakdown
+- Review GitHub repository of stories, their prioritization
+- What did each team member get out of the course?
+- What willl each team member take forward from the course to integrate with other classes?
+
+- – - – - – - – - – - – - – - – - – - 
+Class
+• presentation of work to a guest panel
+
+- – - – - – - – - – - – - – - – - – - 
+Post-Class
+• complete class questionnaire
