@@ -1,6 +1,6 @@
 ### Agile Culture - 27518 - IDX 597
 
-Downtown Campus : Room 482
+Kaplan Institute: Room 225 (South East side of building)
 
 Thursdays from 0600-0900pm
 
