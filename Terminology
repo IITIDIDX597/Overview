@@ -1,1 +1,117 @@
+Agile Terminology
 
+Agile culture uses agile methods, a series of daily practices that allow open communication, collaboration and increases chances for predictable velocity of a team to complete the work so it can be released. Agile teams use GitHub to create team repositories to decompose work into a prioritized backlog of work into small achievable tasks. The use of a Kanban is a way for a team to pull tasks, and move the tasks from in progress to completed on a daily basis.
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Agile
+
+- - - - - - - - - - - - - - - - - - -
+People
+
+Product Owner : The person that is responsible for understanding services, markets/users, competitors, business models and defines the strategy, roadmap and evaluates the progress of the team
+
+Scrum Master : the sprint facilitator for an agile development team. Scrum is a methodology that allows a team to self-organize and make changes quickly, in accordance with agile principles. The scrum master manages the process for how information is exchanged.
+
+
+- - - - - - - - - - - - - - - - - - -
+Product
+
+Product Vision : Establishes the reason for a product, its differentiators and value delivered to markets and how all individual work items will be evaluated against.
+
+Product Roadmap - How a product will evolve over time to a desired end point. This roadmap will continually be refined as actual data will change from assumption to actual performance.
+
+Minimum Viable Product : a solution that has the minimum desired value that can be consumed by users. With user feedback the MVP is iterated over time and existing capabilities are deepened, or new capabilities are added.
+
+Release : A market ready product. Releases may be on a regular release cadence, or if DevOps that focuses on continual integration, a release can be "dropped" at any time to market.
+
+
+- - - - - - - - - - - - - - - - - - -
+Velocity
+
+Scrum : a framework for managing work for teams who break work into actions that can be completed within timeboxed iterations, called sprints (typically two-weeks) and track progress and re-plan in 15-minute stand-up meetings, called daily scrums
+
+Standup : a short 5 to 15 minute meeting by a team to share daily commitments, potential challenges as well as to coordinate efforts to resolve difficult and/or time-consuming issues.
+
+Sprint : A unit of time measured in 1 to 4 weeks where a team completes a body of work
+
+Kanban - Developed by Toyota, which uses a board to manage work o give participants a view of work which is pulled as capacity permits, rather than work being pushed and tracking a backlog, what is in progress, what is blocked from progress, and what is completed
+
+Iteration : A protocol that releases an item and through critique, improves and details an item over time to mature it
+
+
+- - - - - - - - - - - - - - - - - - -
+The Work
+
+Decompose : break a project into epics (body of work) and then into stories
+
+Story Estimation - sizing a story based on how much effort it will take a team to complete it (this can include team skills, time, resources or other factors)
+
+Epic : a large body of work that may take several sprints to complete
+
+Story : describes the type of user, what they want and why. A user story helps to create a simplified description of a requirement. Acceptance Criteria - Defines how a story is completed and done 
+
+Burndown : the backlog that is tracked over time and monitors what is completed
+
+Retrospective : A meeting that's held at the end of an sprint for the team reflects on what happened in the iteration and identifies actions for improvement going forward.
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Git Hub Terminology
+
+- - - - - - - - - - - - - - - - - - -
+Project
+
+Repository : A repository is usually used to organize a single project
+
+- - - - - - - - - - - - - - - - - - -
+Backlogs
+
+Backlog : The backlog sets the priorities for the agile program. The team includes all work items in the backlog: new features, bugs, enhancements, technical or architectural tasks, etc. The product owner prioritizes the work on the backlog for the engineering team. The development team then uses the prioritized backlog as its single source of truth for what work needs to be done.
+
+Backlog Pipeline : items without a milestone are your ‘product backlog’ – these are things you’ll eventually tackle but aren't part of your next immediate Sprint of work
+
+Sprint Backlog : iall Issues your team has committed to accomplish in the next 2 week timeframe (or the timeframe you use to define your own iterations).
+
+- - - - - - - - - - - - - - - - - - -
+The Work
+
+Issue :  This is a task that can be a story, and has key data on the people doing the work, the milestones, and other key information. It also supports discussions on that task. Issues can be tagged and closed.
+
+Pulling : Someone else reviewing a push and pulling it into their repository. It’s important to provide as much useful information and a rationale for why you’re making this Pull Request in the first place. The project owner needs to be able to determine whether your change is as useful to everyone as you think it is.
+
+Fork : you may find yourself wanting to contribute to someone else’s project so you can produce a personal copy of someone else’s project and bridge between the original repository and your personal copy. You can submit Pull Requests to help make other people’s projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
+
+Pull Requests : proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch.
+
+Pushing  :  When you’re ready to submit your changes, stage and commit your changes
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ZenHub Terminology
+
+- - - - - - - - - - - - - - - - - - -
+Project
+
+Repositories (“repos”)  :  projects are divided into repositories to help things stay organized.
+
+Task board (or "board")  :  How a team views, prioritizes, and manages their product backlog.
+
+- - - - - - - - - - - - - - - - - - -
+The Work
+
+Pipelines  :  are columns on the task board that organize a teams issues (tasks). Issues move between pipelines from left to right as they progress through the development cycle.
+
+Labels  :  are the tagging system used to convey more information about each issue and they can be filtered by label.
+
+Milestone  :  Sprint in GitHub
+
+- - - - - - - - - - - - - - - - - - -
+The Work
+
+Product Backlog  :  Master Story List in GitHub
+
+User Stories  :  GitHub issues
+
+Story Point Estimates  :  the way teams size the difficulty of a story that could affect velocity of completion. 1,
+2, 3, 5, 8, 13, 21, and 40 are the standard numbers.
